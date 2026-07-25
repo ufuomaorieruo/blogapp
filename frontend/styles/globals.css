@@ -3,12 +3,12 @@
 body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
   background: #7a1072;
-  color: #dbd24f;
+  color: #f3e523;
   margin: 0;
 }
 
 .site-header {
-  background: #d45231;
+  background: #e05938;
   color: #a89292;
   padding: 16px 24px;
   display: flex;
@@ -24,7 +24,7 @@ body {
 }
 
 .new-post-btn {
-  background: #ece909;
+  background: #ebe723;
   color: #fff;
   padding: 8px 14px;
   border-radius: 6px;
